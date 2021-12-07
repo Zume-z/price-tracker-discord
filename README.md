@@ -5,7 +5,7 @@ Simple to use discord bot that will retrieve the floor price of an ERC721 collec
 1. Create a .env file and populate the following variables with your bot and server information. 
 <img src="https://github.com/saliva-liva/nft-discord-bot-floorprice/blob/media/001.png" alt="error" width="2000"/>
 
-2. Open "input.js" and populate the NftCollectionTitle variable with the NFT collections title (found at the end of the collections url on opensea).
+2. Open "input.js" and populate the NftCollectionTitle variable with the NFT collections slug (found at the end of the collections url on opensea).
 <img src="https://github.com/saliva-liva/nft-discord-bot-floorprice/blob/media/003 copy.png" alt="" width="2000"/>
 <img src="https://github.com/saliva-liva/nft-discord-bot-floorprice/blob/media/002.png" alt="" width="2000"/>
 
