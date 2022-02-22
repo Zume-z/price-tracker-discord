@@ -1,4 +1,4 @@
-# NFT Discord Bot Floor Price
+# Price Tracker Discord
 Simple to use discord bot that will retrieve the floor price of an ERC721 collection from Opensea and post it in a given discord channel at regular intervals.
 
 ## Deployment
